@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=>
+</p>
+
 # Titanic Survival Analysis 
 
 An exploratory data analysis project investigating the factors that influenced passenger survival during the RMS Titanic disaster. The analysis combines Python-based data exploration and Power BI dashboarding to uncover demographic, socioeconomic, and behavioral patterns associated with survival outcomes.
