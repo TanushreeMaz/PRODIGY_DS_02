@@ -46,6 +46,11 @@ The Titanic disaster remains one of the most studied historical datasets in data
 
 ## What Influenced Survival ?
 
+•	Survival Rate by Passenger Title                       
+•	Age Group Survival Outcomes               
+•	Survival Rate by Fare Group                  
+
+
 
 
 
