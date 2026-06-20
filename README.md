@@ -24,6 +24,94 @@ The Titanic disaster remains one of the most studied historical datasets in data
 • What passenger groups were most vulnerable?
 
 
+# Python Analysis
+
+The dataset was processed and analyzed using Python through data cleaning, missing value treatment, feature engineering, and exploratory data analysis. New features such as Age Group, Family Group, Family Size, and Passenger Title were created to better understand passenger behavior and survival patterns. Statistical analysis and visualizations were used to uncover relationships between survival and demographic factors.
+
+## Data Preparation
+
+• Loaded and explored the Titanic dataset                       
+
+• Examined data types, dataset structure, and summary statistics              
+
+• Identified missing values and duplicate records                    
+
+• Treated missing values in Age, Embarked, and Cabin-related fields             
+
+
+## Data Cleaning
+
+• Handled null values using appropriate imputation techniques                                      
+
+• Verified data consistency across key variables                   
+
+• Removed unnecessary columns and standardized categorical values                 
+
+
+## Feature Engineering
+
+Several new variables were created to improve analysis:
+
+• Family Size                         
+
+• Family Group (Solo, Small Family, Large Family)
+
+• Age Group (Child, Teenager, Adult, Senior)                              
+
+• Passenger Title extracted from passenger names                            
+
+• Fare Groups for socioeconomic segmentation                    
+
+
+## Exploratory Data Analysis
+
+### Univariate Analysis
+
+• Survival distribution              
+
+• Passenger class distribution              
+
+• Gender distribution                 
+
+• Embarkation port distribution                   
+
+• Passenger title distribution                
+
+
+### Bivariate Analysis
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+
+
+# Power BI Dashboard
+
+Insights from the Python analysis were transformed into an interactive Power BI dashboard focused on passenger demographics, survival trends, socioeconomic factors, family structures, fare groups, and embarkation patterns. Custom tooltips, storytelling visuals, and thematic design elements were implemented to improve insight exploration and user experience.
+
+The analysis focuses on answering key questions:
+
+• Who had the highest chance of survival?
+
+• Did gender influence survival outcomes?
+
+• How important was passenger class?
+
+• Did age, fare, family size, or embarkation port affect survival?
+
+• What passenger groups were most vulnerable?
+
+
+
 # Dashboard -- Power BI Dashboard
 
 ## Who Was Onboard ?
@@ -73,6 +161,7 @@ The Titanic disaster remains one of the most studied historical datasets in data
 | Highest Fare Group Survival Rate | 74.0% |
 
 
+ 
 
 
 
