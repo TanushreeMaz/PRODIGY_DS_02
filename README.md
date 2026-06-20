@@ -187,37 +187,35 @@ The analysis focuses on answering key questions:
 
 Titanic-Survival-Analysis/
 |
-│
-|
-├── Data/
-│   ├── Titanic_Dataset.csv
-│   └── Titanic_Cleaned_Dataset.csv
-|
-│
-|
-├── Python Analysis/
-│   └── Titanic_EDA.ipynb
-|   ├── Survival_Distribution_EDA.png
-|   ├── Passengers_Title_EDA.png
-|   ├── Age_Distribution_EDA.png
-|   ├── Fare_Distribution_EDA.png
-|   ├── Correlation_Heatmap_EDA.png
-|   └── Outlier_EDA.png
-|
-|
-├── Dashboard/
-|  └── Titanic_Survival_Analysis.pbix
-|
-|
-├── Dashboard Screenshots/
-|  └── Dashboard_Overview.png
-|
-├── images/
-|  └── Titanic.jpg
-|
-├── README.md
-|
-└── requirements.txt
+├── Data/                                                                 
+│   ├── Titanic_Dataset.csv                                               
+│   └── Titanic_Cleaned_Dataset.csv                                                  
+|                                         
+│                                                                
+|                                                                
+├── Python Analysis/                                                                       
+│   └── Titanic_EDA.ipynb                                                          
+|   ├── Survival_Distribution_EDA.png                                 
+|   ├── Passengers_Title_EDA.png                                                                   
+|   ├── Age_Distribution_EDA.png                                                       
+|   ├── Fare_Distribution_EDA.png                                                                                       
+|   ├── Correlation_Heatmap_EDA.png                              
+|   └── Outlier_EDA.png                                           
+|                                                 
+|                                                            
+├── Dashboard/                                                        
+|  └── Titanic_Survival_Analysis.pbix                                         
+|                                               
+|                                                                     
+├── Dashboard Screenshots/                                          
+|  └── Dashboard_Overview.png                                                          
+|                                                                     
+├── images/                                                              
+|  └── Titanic.jpg                                                               
+|                                                                   
+├── README.md                                                                                
+|                                                          
+└── requirements.txt                                                                              
 
 
 # Tools & Technologies
