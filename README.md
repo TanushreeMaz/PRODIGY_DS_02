@@ -13,10 +13,14 @@ The project focuses on transforming raw passenger records into meaningful insigh
 
 The Titanic disaster remains one of the most studied historical datasets in data science. This project analyzes 891 passenger records to answer key questions:
 
-• Who had the highest chance of survival?
-• Did gender influence survival outcomes?
-• How important was passenger class?
-• Did age, fare, family size, or embarkation port affect survival?
+• Who had the highest chance of survival?              
+
+• Did gender influence survival outcomes?       
+
+• How important was passenger class?       
+
+• Did age, fare, family size, or embarkation port affect survival?           
+
 • What passenger groups were most vulnerable?
 
 
@@ -24,17 +28,20 @@ The Titanic disaster remains one of the most studied historical datasets in data
 
 ## Who Was Onboard ?
 
-• Passenger Class Analysis
-• Gender Distribution
-• Age Distribution
+• Passenger Class Analysis            
 
- 
+• Gender Distribution          
+
+• Age Distribution              
+
+• Embarkation Port Breakdown                           
 
 
 ## Who Had the Best Chance ?
 
-• Survival Rate by Gender & Passenger Class
-• Family Size vs Survival Rate
+• Survival Rate by Gender & Passenger Class                
+
+• Family Size vs Survival Rate                  
 
 
 ## What Influenced Survival ?
