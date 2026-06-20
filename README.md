@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="images/Titanic.jpg" width="100%">
+</p>
 
 # Titanic Survival Analysis 
 
