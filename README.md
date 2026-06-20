@@ -65,32 +65,40 @@ Several new variables were created to improve analysis:
 
 ## Exploratory Data Analysis
 
-### Univariate Analysis
+### Target Variable Distribution (Univariate Analysis)
 
 • Survival distribution              
 
-• Passenger class distribution              
-
-• Gender distribution                 
-
-• Embarkation port distribution                   
-
-• Passenger title distribution                
+<img width="1155" height="669" alt="image" src="https://github.com/user-attachments/assets/7c501a69-4a0d-4a6d-9dd0-cd3843f28fa0" />
 
 
-### Bivariate Analysis
+### Categorical Relationships with Survival (Bivariate Analysis)
 
-•
+• Survival by Passenger Titles                      
 
-•
+• Passenger Distribution by Family Group
 
-•
 
-•
+### Continuous Variables (Age and Family Size)                               
 
-•
+• Age Distribution
 
-•
+<img width="1040" height="681" alt="image" src="https://github.com/user-attachments/assets/06e8768a-9190-42e6-8b3f-806deb288965" />
+
+
+• Fare Distribution
+
+<img width="1038" height="683" alt="image" src="https://github.com/user-attachments/assets/d8089397-fd44-4e7b-bb7d-e2dfc9d4b77f" />
+
+
+### Correlation Heatmap
+
+<img width="1036" height="774" alt="image" src="https://github.com/user-attachments/assets/2fef1787-ad99-4e86-8c16-0b43c3654a9c" />
+
+
+### Distribution & Outlier Detection ('Fare')
+
+<img width="993" height="531" alt="image" src="https://github.com/user-attachments/assets/f1215a9e-eff6-4c4f-9462-bdd036093e86" />
 
 
 
