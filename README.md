@@ -251,13 +251,8 @@ The analysis demonstrates that survival aboard the Titanic was strongly influenc
 # About
 
 **Tanushree Mazumdar**
-
-Aspiring Data Analyst passionate about transforming raw data into actionable insights through data analysis, visualization, and business intelligence.
-
-**Skills:** Python, SQL, Power BI, Tableau, Pandas, NumPy, Data Visualization, EDA
-
-**Certifications:** Simplilearn & IBM Certified Data Analyst
-
+Data Analyst | Data Science Intern @ Prodigy InfoTech
+Simplilearn & IBM Certified Data Analyst
 
 🔗 LinkedIn: https://www.linkedin.com/in/tanushree-mazumdar2195
 
