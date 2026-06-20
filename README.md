@@ -47,8 +47,32 @@ The Titanic disaster remains one of the most studied historical datasets in data
 ## What Influenced Survival ?
 
 •	Survival Rate by Passenger Title                       
+
 •	Age Group Survival Outcomes               
+
 •	Survival Rate by Fare Group                  
+
+
+# Dashboard Preview
+
+<img width="1413" height="793" alt="image" src="https://github.com/user-attachments/assets/eefd9595-4f7d-445d-9524-23d006661eba" />
+
+# Key Metrics
+
+| Metric | Value |
+|----------|----------|
+| Total Passengers | 891 |
+| Total Survivors | 342 |
+| Total Casualties | 549 |
+| Overall Survival Rate | 38.4% |
+| Female Survival Rate | 74.2% |
+| Male Survival Rate | 18.9% |
+| First Class Survival Rate | 63.0% |
+| Third Class Survival Rate | 24.2% |
+| Small Family Survival Rate | 57.9% |
+| Highest Fare Group Survival Rate | 74.0% |
+
+
 
 
 
