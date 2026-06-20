@@ -230,7 +230,40 @@ Titanic-Survival-Analysis/
 | Development | Jupyter Notebook |
 
 
+# Key Findings
 
+| Analysis Area | Insight |
+|---------------|----------|
+| Gender | Female passengers were nearly 4x more likely to survive than males. |
+| Passenger Class | First Class passengers had the highest survival rate. |
+| Age Group | Children showed better survival outcomes than adults and seniors. |
+| Family Size | Small families recorded the strongest survival rates. |
+| Fare | Higher fare-paying passengers had better survival chances. |
+| Embarkation Port | Cherbourg passengers achieved the highest survival rate. |
+| Passenger Title | Mrs and Miss titles recorded the best survival outcomes. |
+
+
+# Conclusion
+
+The analysis demonstrates that survival aboard the Titanic was strongly influenced by gender, passenger class, age, family structure, and fare paid. Female passengers, children, first-class travelers, and higher-fare passengers consistently achieved better survival outcomes. Through Python-based analysis and Power BI dashboarding, the project highlights how demographic and socioeconomic factors shaped survival during one of history's most famous maritime disasters.
+
+
+# About
+
+**Tanushree Mazumdar**
+
+Aspiring Data Analyst passionate about transforming raw data into actionable insights through data analysis, visualization, and business intelligence.
+
+**Skills:** Python, SQL, Power BI, Tableau, Pandas, NumPy, Data Visualization, EDA
+
+**Certifications:** Simplilearn & IBM Certified Data Analyst
+
+
+🔗 LinkedIn: https://www.linkedin.com/in/tanushree-mazumdar2195
+
+🔗 GitHub: https://github.com/tanushreemaz
+
+🔗 Portfolio: https://tanushreemaz.github.io
 
 
 
