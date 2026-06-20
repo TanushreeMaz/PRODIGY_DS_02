@@ -219,6 +219,17 @@ Titanic-Survival-Analysis/
 ```
 
 
+# Tools & Technologies
+
+| Category | Tools |
+|----------|----------|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Business Intelligence | Power BI |
+| Development | Jupyter Notebook |
+
+
 
 
 
