@@ -208,7 +208,6 @@ Titanic-Survival-Analysis/
 │   └── Dashboard_Overview.png
 │
 ├── Reports/
-│   ├── Python_EDA_Summary.pdf
 │   └── Titanic_Project_Insights.pdf
 │
 ├── images/
