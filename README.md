@@ -195,17 +195,21 @@ Titanic-Survival-Analysis/
 ├── Python Analysis/
 │   ├── Titanic_EDA.ipynb
 │   ├── Survival_Distribution_EDA.png
-│   ├── Passengers_Title_EDA.png
+│   ├── Passenger_Title_EDA.png
 │   ├── Age_Distribution_EDA.png
 │   ├── Fare_Distribution_EDA.png
 │   ├── Correlation_Heatmap_EDA.png
-│   └── Outlier_EDA.png
+│   └── Outlier_Detection_EDA.png
 │
 ├── Dashboard/
 │   └── Titanic_Survival_Analysis.pbix
 │
-├── Dashboard Screenshots/
+├── Dashboard Preview/
 │   └── Dashboard_Overview.png
+│
+├── Reports/
+│   ├── Python_EDA_Summary.pdf
+│   └── Titanic_Project_Insights.pdf
 │
 ├── images/
 │   └── Titanic.jpg
@@ -214,6 +218,8 @@ Titanic-Survival-Analysis/
 │
 └── requirements.txt
 ```
+
+
 
 
 
