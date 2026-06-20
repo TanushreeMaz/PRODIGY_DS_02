@@ -74,33 +74,47 @@ Several new variables were created to improve analysis:
 
 ### Categorical Relationships with Survival (Bivariate Analysis)
 
-• Survival by Passenger Titles                      
+• Survival by Passenger Titles     
+
+<img width="753" height="428" alt="image" src="https://github.com/user-attachments/assets/9429d70f-035b-4098-8609-4e41d596ed17" />
+
 
 • Passenger Distribution by Family Group
 
 
 ### Continuous Variables (Age and Family Size)                               
 
-• Age Distribution
+### • Age Distribution
 
 <img width="1040" height="681" alt="image" src="https://github.com/user-attachments/assets/06e8768a-9190-42e6-8b3f-806deb288965" />
 
 
-• Fare Distribution
+### • Fare Distribution
 
 <img width="1038" height="683" alt="image" src="https://github.com/user-attachments/assets/d8089397-fd44-4e7b-bb7d-e2dfc9d4b77f" />
 
 
 ### Correlation Heatmap
 
+• Examined relationships between numerical variables
+
+• Identified correlations between Fare, Passenger Class, Family Size, and Survival
+
 <img width="1036" height="774" alt="image" src="https://github.com/user-attachments/assets/2fef1787-ad99-4e86-8c16-0b43c3654a9c" />
 
 
 ### Distribution & Outlier Detection ('Fare')
 
+• Analyzed Fare distribution using boxplots
+
+• Investigated extreme fare values and their impact on survival trends
+
 <img width="993" height="531" alt="image" src="https://github.com/user-attachments/assets/f1215a9e-eff6-4c4f-9462-bdd036093e86" />
 
 
+## Dataset Export
+
+The cleaned and transformed dataset was exported from Python and used as the primary source for Power BI dashboard development.
 
 # Power BI Dashboard
 
@@ -169,7 +183,69 @@ The analysis focuses on answering key questions:
 | Highest Fare Group Survival Rate | 74.0% |
 
 
- 
+# Project Structure
+
+Titanic-Survival-Analysis/
+
+│
+
+├── Data/
+
+│   ├── Titanic_Dataset.csv
+
+│   └── Titanic_Cleaned_Dataset.csv
+
+│
+
+├── Python Analysis/
+
+│   └── Titanic_EDA.ipynb
+
+|   ├── Survival_Distribution_EDA.png
+
+|   ├── Passengers_Title_EDA.png
+
+|   ├── Age_Distribution_EDA.png
+
+|   ├── Fare_Distribution_EDA.png
+
+│   ├── Correlation_Heatmap_EDA.png
+
+|   └── Outlier_EDA.png
+
+├── Dashboard/
+
+│   └── Titanic_Survival_Analysis.pbix
+
+│
+
+├── Dashboard Screenshots/
+
+│   └── Dashboard_Overview.png
+
+|
+
+├── images/
+
+│   └── Titanic.jpg
+
+│
+
+├── README.md
+
+└── requirements.txt
+
+
+# Tools & Technologies
+
+| Category | Tools |
+|----------|----------|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Business Intelligence | Power BI |
+| Development | Jupyter Notebook |
+
 
 
 
