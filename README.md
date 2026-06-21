@@ -201,9 +201,6 @@ Titanic-Survival-Analysis/
 │   ├── Correlation_Heatmap_EDA.png
 │   └── Outlier_Detection_EDA.png
 │
-├── Dashboard/
-│   └── Titanic_Survival_Analysis.pbix
-│
 ├── Dashboard Preview/
 │   └── Dashboard_Overview.png
 │
@@ -254,11 +251,9 @@ The analysis demonstrates that survival aboard the Titanic was strongly influenc
 Data Analyst | Data Science Intern @ Prodigy InfoTech
 Simplilearn & IBM Certified Data Analyst
 
-🔗 LinkedIn: https://www.linkedin.com/in/tanushree-mazumdar2195
-
-🔗 GitHub: https://github.com/tanushreemaz
-
-🔗 Portfolio: https://tanushreemaz.github.io
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-mazumdar2195)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanushreemaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3C5D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanushreemaz.github.io)
 
 
 
