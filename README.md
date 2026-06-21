@@ -257,5 +257,14 @@ Simplilearn & IBM Certified Data Analyst
 
 
 
+## License
+
+© 2026 Tanushree Mazumdar. All Rights Reserved.
+
+This repository is shared for portfolio and educational viewing purposes only.
+
+No part of this project may be copied, redistributed, modified, or used commercially without explicit permission from the author.
+
+
 
 
